@@ -1,6 +1,4 @@
 #include<stdio.h>
-
-// declaring the recursive function
 int isPrime(int, int);
 
 int main()
