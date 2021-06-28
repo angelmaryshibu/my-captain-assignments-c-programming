@@ -1,5 +1,6 @@
 #include <stdio.h>
-void main() 
+int digitsum(int);
+int main()
 {int i;
 printf("enter the number");
 scanf("%d",i);
